@@ -1,12 +1,12 @@
 ------------------------------------------------------------
   INSTALATION API PLATFORM WITH READT ADMIN ON LOCALMACHINE
 ------------------------------------------------------------
-  1.) docker-compose pull
-  2.) COMPOSE_HTTP_TIME=300 docker-compose up -d
-  3.) docker-compose exec php bin/console doctrine:schema:update --force
-  4.) docker-compose exec php bin/console doctrine:fixtures:load
-  
-  -- PORT 80 has to be open
+  1.) docker-compose pull. 
+  2.) COMPOSE_HTTP_TIME=300 docker-compose up -d. 
+  3.) docker-compose exec php bin/console doctrine:schema:update --force. 
+  4.) docker-compose exec php bin/console doctrine:fixtures:load 
+    
+  -- PORT 80 has to be open. 
 
 ---------------------------------------------
   TEST TODO
