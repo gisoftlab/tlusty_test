@@ -1,10 +1,10 @@
+The goal of this task is to verify your React.js programming skills, and see your general approach. Please follow instructions below. We want to see your ability to connect React Admin to our APIs on API-Platform, your capability to create new custom components, adjust dashboard, lists and add css styling.
+
+
+
 ------------------------------------------------------------
   INSTALATION API PLATFORM WITH REACT-ADMIN ON LOCALMACHINE
 ------------------------------------------------------------
-
-
-The goal of this task is to verify your React.js programming skills, and see your approach. Please follow instructions below.
-
 
 Create your own fork of this repository.
 
@@ -58,7 +58,7 @@ e. Extend Order Create.
 
 - Commit changes
     
-f. Make custom CSS tyling 
+f. Make custom CSS styling 
 
     1. Add WYSIWYG for description field    
     
