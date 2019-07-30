@@ -33,7 +33,7 @@ c. Extend Order List.
 
     1. Every order has to have drop down list with order items max 5. 
     2. Add button more to display more items
-    3. Add possibility to create new Item to appropeat order
+    3. Add possibility to create new Item to appropriate order
     4. Make promote in line (changeable)
     5. Make title in line (editable) 
     6. Make description in line (editable)
