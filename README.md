@@ -2,6 +2,10 @@
   INSTALATION API PLATFORM WITH REACT-ADMIN ON LOCALMACHINE
 ------------------------------------------------------------
 
+
+The goal of this task is to verify your React.js programming skills, and see your approach. Please follow instructions below.
+
+
 Create your own fork of this repository.
 
   1. docker-compose pull
