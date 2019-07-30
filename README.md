@@ -18,6 +18,35 @@ Create your own fork of this repository.
 ---------------------------------------------
   TEST TODO
 ---------------------------------------------
+
+Existing entities:
+
+- Tables 
+Order
+OrderItem
+
+- Order Fields
+ 
+ $id;
+ $title;
+ $short;
+ $description;
+ $promoted = false;
+ $createdAt;
+ $updatedAt;
+ $items;
+
+- OrderItem Fields
+
+ $id;
+ $content;
+ $description;
+ $price = 0;
+ $order;
+ 
+ 
+=========================
+
 a. Add Component Order in React Admin 
   - React admin can't lost his possibility to dynamic changes from entity Order. 
     1. Make custom order List on React Admin  
