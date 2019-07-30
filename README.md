@@ -1,5 +1,5 @@
 ------------------------------------------------------------
-  INSTALATION API PLATFORM WITH READT ADMIN ON LOCALMACHINE
+  INSTALATION API PLATFORM WITH REACT-ADMIN ON LOCALMACHINE
 ------------------------------------------------------------
 
 Create your own fork of this repository.
