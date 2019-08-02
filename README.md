@@ -9,9 +9,9 @@ Due date: 24 hours from assigning.
 Good luck!
 
 
---------------------------------------------------------------
-  INSTALLATION API PLATFORM WITH REACT-ADMIN ON LOCALMACHINE
---------------------------------------------------------------
+----------------------------------------------------------------
+  INSTALLATION OF API PLATFORM WITH REACT-ADMIN ON LOCALMACHINE
+----------------------------------------------------------------
 
 Create your own fork of this repository.
 
