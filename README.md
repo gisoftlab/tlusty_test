@@ -47,8 +47,6 @@ OrderItem
  
  
 =========================
-
-ATTENTION: Your solution should customize React Admin on top of Hydra, without losing the connection to API Platfrom via Hydra. 
   
 a. Add Component Order in React Admin 
   
@@ -97,7 +95,7 @@ f. Make custom CSS styling
 - Commit changes
 
 
-Expected time to delivery max. 4 hours.
+Expected time to delivery max. 6 hours.
 
 Due date: 24 hours from assigning.
 
