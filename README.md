@@ -42,7 +42,7 @@ Existing entities
  $updatedAt;
  $items;
 
-- OrderItem Fields
+3. OrderItem Fields
 
  $id;
  $content;
