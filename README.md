@@ -22,17 +22,16 @@ Create your own fork of this repository.
     
   -- PORT 80 has to be open. 
 
+
 ---------------------------------------------
-  TEST TODO
+Existing entities 
 ---------------------------------------------
 
-Existing entities:
+1. Tables 
+- Order
+- OrderItem
 
-- Tables 
-Order
-OrderItem
-
-- Order Fields
+2. Order Fields
  
  $id;
  $title;
@@ -52,8 +51,10 @@ OrderItem
  $order;
  
  
-=========================
-  
+---------------------------------------------
+ TASK TODO 
+---------------------------------------------
+
 a. Add Component Order in React Admin 
   
     1. Make custom order List on React Admin  
