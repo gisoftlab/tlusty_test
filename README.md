@@ -47,8 +47,10 @@ OrderItem
  
 =========================
 
+ATTENTION: Your solution should customize React Admin on top of Hydra, without losing the connection to API Platfrom via Hydra. 
+  
 a. Add Component Order in React Admin 
-  - React admin can't lost his possibility to dynamic changes from entity Order. 
+  
     1. Make custom order List on React Admin  
     2. Make custom order Edit on React Admin
     3. Make custom order Create on React Admin
@@ -57,8 +59,8 @@ a. Add Component Order in React Admin
 
  - Commit changes 
  
-b. Extend dashboard     
-    1. Make custom Component to display orders. Fist 5 Orders with max Items  
+b. Extend React Admin dashboard     
+    1. Make custom Component to display orders. First 5 Orders with max Items  
     
 - Commit changes
     
