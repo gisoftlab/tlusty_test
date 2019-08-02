@@ -1,6 +1,12 @@
 The goal of this task is to verify your React.js programming skills, and see your general approach. Please follow instructions below. We want to see your ability to connect React Admin to our APIs on API-Platform, your capability to create new custom components, adjust dashboard, lists and add css styling.
 
+This task should not take you more than 12 evening. 
+
 ATTENTION: Your solution should customize React Admin on top of Hydra, without losing the connection to API Platfrom via Hydra.
+
+Due date: 24 hours from assigning.
+
+Good luck!
 
 
 ------------------------------------------------------------
@@ -96,8 +102,4 @@ f. Make custom CSS styling
     
 - Commit changes
 
-
-Expected time to delivery max. 6 hours.
-
-Due date: 24 hours from assigning.
 
