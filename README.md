@@ -75,6 +75,8 @@ c. Extend Order List.
 
 - Commit changes
 
+-------------- points below are not obligatory, but completing them is a big plus -------------------
+
 d. Extend Order Edit.
 
     1. Add WYSIWYG for description field 
