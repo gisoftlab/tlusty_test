@@ -65,10 +65,13 @@ a. Add Component Order in React Admin
 
  - Commit changes 
  
-b. Extend React Admin dashboard     
+ 
+b. Extend React Admin dashboard   
+
     1. Make custom Component to display orders. First 5 Orders with max Items  
     
 - Commit changes
+    
     
 c. Extend Order List.
 
@@ -82,7 +85,9 @@ c. Extend Order List.
 
 - Commit changes
 
+
 -------------- points below are not obligatory, but completing them is a big plus -------------------
+
 
 d. Extend Order Edit.
 
