@@ -2,7 +2,7 @@ The goal of this task is to verify your React.js programming skills, and see you
 
 This task should not take you more than 1 evening. 
 
-ATTENTION: Your solution should customize React Admin on top of Hydra, without losing the connection to API Platfrom via Hydra.
+ATTENTION: Your solution should customize React Admin on top of Hydra, without losing the connection to API Platform via Hydra.
 
 Due date: 24 hours from assigning.
 
