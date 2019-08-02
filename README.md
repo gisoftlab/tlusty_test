@@ -1,6 +1,6 @@
 The goal of this task is to verify your React.js programming skills, and see your general approach. Please follow instructions below. We want to see your ability to get along with API-Platform.com, connect React Admin to our APIs on API-Platform, your capability to create new custom components, adjust dashboard, lists and add css styling.
 
-This task should not take you more than 1 evening. Previous experience with API-Platform.com project is a big plus.
+This task should not take you more than 1 evening. Previous experience with API-Platform.com or React Admin project is a big plus.
 
 ATTENTION: Your solution should customize React Admin on top of Hydra, without losing the connection to API-Platform.com via Hydra. Other solutions will be DECLINED from evaluation process.
 
